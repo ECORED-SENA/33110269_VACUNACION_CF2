@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="830" viewBox="0 0 830 830">
+  <g id="Grupo_33322" data-name="Grupo 33322" transform="translate(-8742 3326)">
+    <circle id="Elipse_1176" data-name="Elipse 1176" cx="415" cy="415" r="415" transform="translate(8742 -3326)" fill="#fff"/>
+    <g id="needle" transform="translate(8901 -3167.009)">
+      <path id="Trazado_27238" data-name="Trazado 27238" d="M418.1,21.665,309.921,129.839l36.146,36.146L424.788,119.2l29.453-61.393Z" fill="#4bbaed"/>
+      <rect id="Rectángulo_4843" data-name="Rectángulo 4843" width="51.114" height="152.981" transform="translate(454.248 57.813) rotate(45)" fill="#19a2e0"/>
+      <path id="Trazado_27239" data-name="Trazado 27239" d="M409.845.009,388.632,21.224l51.1,51.1h18.976l2.239-21.214Z" fill="#b7e4f8"/>
+      <rect id="Rectángulo_4844" data-name="Rectángulo 4844" width="72.205" height="30.002" transform="translate(460.944 51.102) rotate(45)" fill="#93d6f4"/>
+      <path id="Trazado_27240" data-name="Trazado 27240" d="M119.82,370.956,0,490.777l10.638,10.637,42.7-33.335,77.121-86.485Z" fill="#dbdbdb"/>
+      <rect id="Rectángulo_4845" data-name="Rectángulo 4845" width="14.958" height="169.453" transform="translate(130.466 381.593) rotate(45)" fill="#bdbdbd"/>
+      <path id="Trazado_27241" data-name="Trazado 27241" d="M129.569,311.046l-85.6,86.142,35.718,35.946,41.568-18.311,44.027-67.831Z" fill="#8ad2f4"/>
+      <path id="Trazado_27242" data-name="Trazado 27242" d="M79.692,433.134l35.718,35.945,85.6-86.142-35.718-35.945Z" fill="#4bbaed"/>
+      <path id="Trazado_27243" data-name="Trazado 27243" d="M313.779,76.617l-86.667,86.666L281.857,230.2l64.672-29.337,28.078-63.414Z" fill="#dbf1fb"/>
+      <path id="Trazado_27244" data-name="Trazado 27244" d="M281.941,230.112l66.588,54.921,86.907-86.76-60.829-60.828Z" fill="#b7e4f8"/>
+      <path id="Trazado_27245" data-name="Trazado 27245" d="M227.029,163.366,69.084,321.311l60.828,60.829L290.024,262.59,287.857,224.2Z" fill="#ffdb2d"/>
+      <rect id="Rectángulo_4846" data-name="Rectángulo 4846" width="86.026" height="223.367" transform="translate(287.86 224.197) rotate(45)" fill="#ffb700"/>
+      <path id="Trazado_27246" data-name="Trazado 27246" d="M296.028,34.675,274.813,55.89l90.675,90.675H386.7V125.35Z" fill="#b7e4f8"/>
+      <g id="Grupo_33320" data-name="Grupo 33320">
+        <rect id="Rectángulo_4847" data-name="Rectángulo 4847" width="128.23" height="30.002" transform="translate(386.707 125.343) rotate(45)" fill="#93d6f4"/>
+        <rect id="Rectángulo_4848" data-name="Rectángulo 4848" width="30.172" height="30.002" transform="translate(269.979 163.176) rotate(-135)" fill="#93d6f4"/>
+      </g>
+      <g id="Grupo_33321" data-name="Grupo 33321">
+        <rect id="Rectángulo_4849" data-name="Rectángulo 4849" width="30.172" height="30.002" transform="translate(184.6 248.505) rotate(-135)" fill="#ffb700"/>
+        <rect id="Rectángulo_4850" data-name="Rectángulo 4850" width="30.172" height="30.002" transform="translate(227.271 205.832) rotate(-135)" fill="#ffb700"/>
+        <rect id="Rectángulo_4851" data-name="Rectángulo 4851" width="30.172" height="30.002" transform="translate(141.879 291.183) rotate(-135)" fill="#ffb700"/>
+      </g>
+    </g>
+  </g>
+</svg>
