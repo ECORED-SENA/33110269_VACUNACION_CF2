@@ -14,7 +14,7 @@
       .row.justify-content-center 
         .col-12
           .jumbotron.mb-3
-            p.mb-0.text-center Los elementos fundamentales de la cadena de frío son:
+            p.mb-0.text-center #[strong Los elementos fundamentales de la cadena de frío son:]
 
       .row.justify-content-center 
         .col-10       
@@ -140,6 +140,28 @@
         .col-12
           p Cada nivel territorial cuenta con el equipamiento necesario para la atención de la vacunación establecida en el PAI, que se ha venido actualizando y mejorando en los últimos 15 años. Para las nuevas vacunas que requieren ultracongelación, el país adquirió 44 ultracongeladores ubicados en Barranquilla, Bogotá, Bucaramanga, Cali, Cartagena, Medellín y Pereira. 
           p.mb-0  En estas ciudades se realizará el almacenamiento temporal ultracongelado y de acuerdo con la capacidad instalada se establecerán las frecuencias de entrega desde el laboratorio productor.
+
+      .row.justify-content-center.mb-5
+        .col-11
+          #carouselExampleIndicators.carousel.slide(data-ride='carousel')
+            ol.carousel-indicators
+              li.active(data-target='#carouselExampleIndicators', data-slide-to='0')
+              li(data-target='#carouselExampleIndicators', data-slide-to='1')
+              li(data-target='#carouselExampleIndicators', data-slide-to='2')              
+            .carousel-inner
+              .carousel-item.active
+                img.d-block.w-100(src='assets/images/pages/tema_1/slider_01.svg', alt='0')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_1/slider_02.svg', alt='1')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_1/slider_03.svg', alt='2')                               
+                                                   
+            a.carousel-control-prev(href='#carouselExampleIndicators', role='button', data-slide='prev')
+              span.carousel-control-prev-icon(aria-hidden='true')
+              span.sr-only Previous
+            a.carousel-control-next(href='#carouselExampleIndicators', role='button', data-slide='next')
+              span.carousel-control-next-icon(aria-hidden='true')
+              span.sr-only Next
 
     .jumbotron.bg-white
       .row

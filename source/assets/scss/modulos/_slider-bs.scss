@@ -13,3 +13,13 @@
 .carousel-control-prev, .carousel-control-next {
     z-index: 30;
 }
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 60px;
+  width: 60px;
+  outline: black;
+  background-color: rgba(0,0,0,0.25);
+  background-size: 50%, 50%;
+  border-radius: 50%;    
+}

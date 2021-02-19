@@ -7,7 +7,7 @@
   },   
   {
     "id": 0,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "introduccion",
     "title": "Introducción",
     "breadcrumb": ["Inicio","Introducción"],
@@ -112,7 +112,14 @@
         "slug": "bioseguridad",
         "title": "4.3 Elementos de protección personal (EPP)",
         "anchor": "tema4_3"
-      } 
+      }      
     ]   
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-question-circle",
+    "slug": "actividad",
+    "title": "Actividad didáctica",    
+    "path": "pages/actividad-1.html"    
   }
 ]
