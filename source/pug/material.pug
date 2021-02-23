@@ -36,8 +36,11 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Normativa vigente proceso ECCL', '#tema-1')
+                                    +navTemaItem('text', 'Introducción', '#introduccion') 
+                                    +navTemaItem('1', 'Generalidades', '#tema-1')
+                                    +navTemaItem('2', 'Ultracongeladores', '#tema-2')
+                                    +navTemaItem('3', 'Vacunas contra el COVID-19', '#tema-3')
+                                    +navTemaItem('4', 'Bioseguridad', '#tema-4')
                                     +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
@@ -48,7 +51,13 @@ html(lang="es")
             #introduccion
                 include pages/introduccion.pug
             #tema-1
-                include pages/1-tema.pug
+                include pages/tema-1.pug
+            #tema-2
+                include pages/tema-2.pug
+            #tema-3
+                include pages/tema-3.pug
+            #tema-4
+                include pages/tema-4.pug
             #evaluacion
                 include pages/actividad-1.pug
             #glosario
