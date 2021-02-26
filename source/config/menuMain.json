@@ -59,7 +59,7 @@
     "id": 3,
     "icon": "fa fa-file-text",
     "slug": "vacunas_covid19",
-    "title": "3. Vacunación contra COVID-19",    
+    "title": "3. Vacuna contra el COVID-19",    
     "path": "pages/tema-3.html",
     "submenu": [
       {
@@ -106,6 +106,13 @@
         "slug": "bioseguridad",
         "title": "4.3 Procedimiento",
         "anchor": "tema4_3"
+      }
+      ,
+      {
+        "icon": "fa fa-file-text",
+        "slug": "bioseguridad",
+        "title": "4.4 Elementos de protección personal (EPP)",
+        "anchor": "tema4_4"
       }          
     ]   
   },
